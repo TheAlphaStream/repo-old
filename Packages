@@ -1,0 +1,14 @@
+Package: com.alphastream.ppbattery
+Name: pp battery
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Battery but pp.
+Maintainer: Alpha_Stream
+Author: Alpha_Stream
+Section: Juice themes
+Depends: com.spark.juice
+Filename: debs/pp_battery_v1.0.deb
+Size: 42424
+MD5sum: 701039f7c9c49719e450b44f1f446009
+SHA1: 1b707cf855f5ea1d833a9af89ba6c584dea24bc6
+SHA256: fa6fee010f65093d39cc2cb5bf542c5fd68eb1d9fdb766961996f3fe03a6d6a0
