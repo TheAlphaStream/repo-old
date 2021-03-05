@@ -29,3 +29,19 @@ MD5sum: 90a8b458dcae7a2bbc5aa78c4793276d
 SHA1: 83c0dc7931d53ae59687487b958845929444a9f2
 SHA256: f8ce0f44501e89c7d5d09d857c54a3fe005533a1efec3043109e1b880b502628
 Icon: https://github.com/TheAlphaStream/repo/blob/main/assets/ssss/icon.png?raw=true
+
+Package: com.alphastream.solaris
+Name: Solaris
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Planetarium on your status bar.
+Maintainer: Alpha_Stream
+Author: Alpha_Stream
+Section: Status bar themes
+Depends: com.spark.snowboard, com.spark.snowboard.statusbar
+Filename: debs/solaris_v1.0.deb
+Size: 74608
+MD5sum: 7fdd50bcf7ed4a7f580a1cd8fe48abdc
+SHA1: 56b3f95e919667a8bf8f1290d290bd82133a2826
+SHA256: 279aa071af1c58a4973f7cede599fefb639c1ac6e54e13880e93e847b5e82c0b
+Icon: https://github.com/TheAlphaStream/repo/blob/main/assets/solaris/icon.png?raw=true
