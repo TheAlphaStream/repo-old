@@ -1,0 +1,47 @@
+Package: com.alphastream.ppbattery
+Name: pp battery
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Battery but pp.
+Maintainer: Alpha_Stream
+Author: Alpha_Stream
+Section: Juice themes
+Depends: com.spark.juice
+Filename: debs/pp_battery_v1.0.deb
+Size: 42424
+MD5sum: 701039f7c9c49719e450b44f1f446009
+SHA1: 1b707cf855f5ea1d833a9af89ba6c584dea24bc6
+SHA256: fa6fee010f65093d39cc2cb5bf542c5fd68eb1d9fdb766961996f3fe03a6d6a0
+Icon: https://github.com/TheAlphaStream/repo/blob/main/assets/ppbattery/icon.png?raw=true
+
+Package: com.alphastream.ssss
+Name: SSSS
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Inspired by the anime SSSS.Gridman
+Maintainer: Alpha_Stream
+Author: Alpha_Stream
+Section: Status bar themes
+Depends: com.spark.snowboard, com.spark.snowboard.statusbar
+Filename: debs/ssss_v1.0.deb
+Size: 60648
+MD5sum: 90a8b458dcae7a2bbc5aa78c4793276d
+SHA1: 83c0dc7931d53ae59687487b958845929444a9f2
+SHA256: f8ce0f44501e89c7d5d09d857c54a3fe005533a1efec3043109e1b880b502628
+Icon: https://github.com/TheAlphaStream/repo/blob/main/assets/ssss/icon.png?raw=true
+
+Package: com.alphastream.solaris
+Name: Solaris
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Planetarium on your status bar.
+Maintainer: Alpha_Stream
+Author: Alpha_Stream
+Section: Status bar themes
+Depends: com.spark.snowboard, com.spark.snowboard.statusbar
+Filename: debs/solaris_v1.0.deb
+Size: 74608
+MD5sum: 7fdd50bcf7ed4a7f580a1cd8fe48abdc
+SHA1: 56b3f95e919667a8bf8f1290d290bd82133a2826
+SHA256: 279aa071af1c58a4973f7cede599fefb639c1ac6e54e13880e93e847b5e82c0b
+Icon: https://github.com/TheAlphaStream/repo/blob/main/assets/solaris/icon.png?raw=true
